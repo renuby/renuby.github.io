@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://renuby.github.io/sitemap/sitemap.txt
